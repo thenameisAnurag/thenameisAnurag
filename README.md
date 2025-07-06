@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anurag Mishra</h1>
 <h3 align="center">A passionate AI-ML developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thenameisanurag&label=Profile%20views&color=0e75b6&style=flat" alt="thenameisanurag" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thenameisanurag" alt="thenameisanurag" /></a> </p>
 
 - 🔭 I’m currently working on [Generative AI , RAG Models ,AI-ML](https://github.com/thenameisAnurag/AI_Museum_Guide.git)
 
