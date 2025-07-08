@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anurag Mishra</h1>
 <h3 align="center">A passionate AI-ML developer from India</h3>
 
+![Carmen Sandiego Computer GIF by Xbox](https://github.com/user-attachments/assets/b6393dc9-d380-44d6-a388-8f5c24ccd7ef)
 
 - 🔭 I’m currently working on [Generative AI , RAG Models ,AI-ML](https://github.com/thenameisAnurag/AI_Museum_Guide.git)
 
